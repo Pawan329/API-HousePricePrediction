@@ -1,0 +1,6 @@
+{
+    "area" : 50000,
+    "rooms" : 3,
+    "floors" : 2,
+    "garage" : 1
+}
